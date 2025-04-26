@@ -1,4 +1,3 @@
-- 你好这里是茄子汉堡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=auberginewly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auberginewly)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=auberginewly)
