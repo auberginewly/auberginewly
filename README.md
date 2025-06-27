@@ -5,9 +5,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Aubergine+%F0%9F%8D%86;Product+Manager+%F0%9F%93%8A;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
+</div>
+
 ---
 
-## About Me
+<div align="center">
+
+## 🍆 About Me
+
+</div>
+
 - Product Manager who loves exploring technology
 - Currently learning Java backend development
 - Passionate about programming and exploring infinite possibilities of technology
@@ -16,7 +23,11 @@
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
+
+</div>
 
 <div align="center">
 
@@ -27,23 +38,24 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Statistics
+
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auberginewly&layout=compact&langs_count=8&theme=vue&title_color=87CEEB&text_color=87CEEB&bg_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/auberginewly/auberginewly/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auberginewly&theme=vue&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB&background=ffffff&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=auberginewly&theme=vue&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB&background=ffffff&hide_border=true"/>
 </div>
 
 ---
 
+<div align="center">
+
 ## 📫 Contact Me
+
+</div>
 
 <div align="center">
   
