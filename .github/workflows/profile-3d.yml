@@ -1,0 +1,35 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 每天UTC 18:00 (北京时间凌晨2:00) 自动运行
+    - cron: "0 18 * * *"
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 100
+        with:
+          SETTING_JSON: |
+            {
+              "type": "normal",
+              "config": {
+                "visibility": "public",
+                "max_repos": 100,
+                "exclude_repo": [],
+                "exclude_lang": [],
+                "exclude_contrib_day": [],
+                "contrib_count_max": 20,
+                "changed_date_range_max": 360,
+                "create_each_color_dir": true,
+                "week_type": "iso",
+                "calendar_median": false
+              }
+            }
