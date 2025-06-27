@@ -8,11 +8,11 @@
 ---
 
 ## About Me
-Product Manager who loves exploring technology
-Currently learning Java backend development
-Passionate about programming and exploring infinite possibilities of technology
-Continuously learning new technologies, improving product thinking and technical skills
-Goal: Become a tech-savvy product manager
+- Product Manager who loves exploring technology
+- Currently learning Java backend development
+- Passionate about programming and exploring infinite possibilities of technology
+- Continuously learning new technologies, improving product thinking and technical skills
+- Goal: Become a tech-savvy product manager
 
 ---
 
