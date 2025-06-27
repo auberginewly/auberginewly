@@ -15,7 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 100
         with:
           SETTING_JSON: |
             {
@@ -26,10 +25,10 @@ jobs:
                 "exclude_repo": [],
                 "exclude_lang": [],
                 "exclude_contrib_day": [],
-                "contrib_count_max": 20,
-                "changed_date_range_max": 360,
+                "contrib_count_max": 30,
+                "changed_date_range_max": 730,
                 "create_each_color_dir": true,
                 "week_type": "iso",
-                "calendar_median": false
+                "calendar_median": true
               }
             }
