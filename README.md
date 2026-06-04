@@ -8,9 +8,6 @@ B.S. in Cybersecurity, 2024-2028
 
 - Learning: ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-## Work
-[@Interdime](https://github.com/Interdime) — Fullstack Development
-
 ## Open Source Contribution
 | Project | Contribution |
 |---------|-------------|
