@@ -10,7 +10,8 @@ B.S. in Cybersecurity, 2024-2028
 
 ## Internship
 
-- [Interdime｜Photon Web & iOS](internship/interdime-photon-web-ios.md) — 全栈开发实习生，2026.05 -- 2026.08
+- [Kuaishou｜AI Productivity Center](internship/kuaishou.md) — 全栈开发实习生，2026.09 -- 至今
+- [Interdime｜Photon Web & iOS](internship/interdime.md) — 全栈开发实习生，2026.05 -- 2026.08
 
 ## Open Source Contribution
 | Project | Contribution |
