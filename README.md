@@ -8,11 +8,6 @@ B.S. in Cybersecurity, 2024-2028
 
 - Learning: ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-## Internship
-
-- [Kuaishou｜AI Productivity Center](internship/kuaishou.md) — 全栈开发实习生，2026.09 -- 至今
-- [Interdime｜Photon Web & iOS](internship/interdime.md) — 全栈开发实习生，2026.05 -- 2026.08
-
 ## Open Source Contribution
 | Project | Contribution |
 |---------|-------------|
