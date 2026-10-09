@@ -13,6 +13,7 @@ B.S. in Cybersecurity, 2024–2028
 
 - **[Reticle](https://github.com/reticlehq/reticle)** · Runtime perception for AI agents
 - **[OpenScreen](https://github.com/getopenscreen/openscreen)** · Screen recording / AI video editing agent
+- **[OpenScreen (Original)](https://github.com/siddharthvaddem/openscreen)** · Screen recording / Video editing
 
 ## Station
 
