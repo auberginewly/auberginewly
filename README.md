@@ -11,6 +11,7 @@ B.S. in Cybersecurity, 2024–2028
 
 ## Open Source
 
+- **[LangGraph.js](https://github.com/langchain-ai/langgraphjs)** · Security vulnerability discovery and responsible disclosure · [GHSA-432w-3h3v-2pv4](https://github.com/langchain-ai/langgraphjs/security/advisories/GHSA-432w-3h3v-2pv4)
 - **[Reticle](https://github.com/reticlehq/reticle)** · Runtime perception for AI agents
 - **[OpenScreen](https://github.com/getopenscreen/openscreen)** · Screen recording / AI video editing agent
 - **[OpenScreen (Original)](https://github.com/siddharthvaddem/openscreen)** · Screen recording / Video editing
